@@ -1,1 +1,1 @@
-# RUW_DATA
+# Mac Paw internship test task
